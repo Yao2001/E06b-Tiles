@@ -21,3 +21,5 @@ To earn extra credit,
  * Make changes until you have a working three-level game
 
 As always, update the LICENSE, this file (README.md) and submit the URL to your repository on Canvas.
+
+This game is about an alien move in the map full of grass and get the coins. The alien is keep falling down on the bottom.
